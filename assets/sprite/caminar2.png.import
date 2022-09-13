@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/caminar2.png-9aa31788ffce8810abb2f61dd61c68f0.stex"
+path="res://.import/caminar2.png-97d51ab30137568b75ce4f3d41ec57cd.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/personaje/caminar2.png"
-dest_files=[ "res://.import/caminar2.png-9aa31788ffce8810abb2f61dd61c68f0.stex" ]
+source_file="res://assets/sprite/caminar2.png"
+dest_files=[ "res://.import/caminar2.png-97d51ab30137568b75ce4f3d41ec57cd.stex" ]
 
 [params]
 

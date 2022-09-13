@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/caminar1.png-eb8a8f12cf0b3adc87edefe2fbc19228.stex"
+path="res://.import/salto_doble1.png-cc85b44776f4f41ddc79304b3ff0eb4b.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/personaje/caminar1.png"
-dest_files=[ "res://.import/caminar1.png-eb8a8f12cf0b3adc87edefe2fbc19228.stex" ]
+source_file="res://assets/sprite/salto_doble1.png"
+dest_files=[ "res://.import/salto_doble1.png-cc85b44776f4f41ddc79304b3ff0eb4b.stex" ]
 
 [params]
 

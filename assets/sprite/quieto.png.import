@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/quieto.png-0c813440a4a08c680f903a673cc7a78c.stex"
+path="res://.import/quieto.png-fd03a63b06975af16eb3d23ccdb1a5ff.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/personaje/quieto.png"
-dest_files=[ "res://.import/quieto.png-0c813440a4a08c680f903a673cc7a78c.stex" ]
+source_file="res://assets/sprite/quieto.png"
+dest_files=[ "res://.import/quieto.png-fd03a63b06975af16eb3d23ccdb1a5ff.stex" ]
 
 [params]
 
